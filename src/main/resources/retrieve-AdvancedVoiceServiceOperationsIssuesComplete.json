@@ -1,0 +1,13 @@
+{
+  "empolyeeBusinessUnitReference" : "EBU456321987",
+  "customerContactRecordReference" : "CCRR321521448",
+  "productionIssueType" : "NETWORK_FAILURE",
+  "productionIssueStatus" : "resolved",
+  "productionIssueResolutionTask" : "Err1: Explanation of actions to fix the problem",
+  "vChannelServiceIssueReference" : "VCSIR321654987",
+  "productionIssueDiagnosis" : "SEVERAL",
+  "productionIssueRecord" : "productionIssueRecord",
+  "productionIssueDescription" : "Err1: Description to explain",
+  "vChannelOperatingSessionReference" : "VCOSR214563789",
+  "vChannelServiceReference" : "VCSR548679123"
+}

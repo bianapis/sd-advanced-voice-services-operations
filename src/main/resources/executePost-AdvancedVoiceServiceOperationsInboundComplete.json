@@ -1,0 +1,11 @@
+{
+  "vChannelDeviceReference" : "VCDR789456123",
+  "vChannelInboundConnectionContactReference" : "VICCR654789321",
+  "vChannelDevicePropertyValue" : "ANI",
+  "vChannelInboundConnectionStartTime" : "01-01-1970 00:00:00",
+  "vChannelInboundConnectionDuration" : "01:42:59",
+  "vChannelInboundConnectionReference" : "VICR321654987",
+  "vChannelServiceSessionStatistics" : {},
+  "vChannelOperatingSessionReference" : "VCOSR214563789",
+  "vChannelServiceReference" : "VCSR548679123"
+}

@@ -1,0 +1,12 @@
+{
+  "empolyeeBusinessUnitReference" : "EBU456321987",
+  "customerContactRecordReference" : "CCRR321521448",
+  "vChannelOutboundConnectionDuration" : "01:42:59",
+  "customerContactRecord" : {},
+  "vChannelServiceSessionStatistics" : {},
+  "vChannelCustomerDeviceReference" : "VCDR312456987",
+  "vChannelOperatingSessionReference" : "VCOSR214563789",
+  "vChannelOutboundConnectionStartTime" : "01-01-1970 00:00:00",
+  "vChannelServiceReference" : "VCSR548679123",
+  "vChannelOutboundConnectionReference" : "VCOCR321654987"
+}
